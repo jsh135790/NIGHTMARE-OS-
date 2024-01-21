@@ -11,12 +11,12 @@ For more information and updates, please visit our official website: [Nightmare.
 ### NIGHTMARE.JS
 
 - **Description**: NIGHTMARE.JS is a script developed for OnetapV4, offering enhanced gameplay and advanced features.
-- **Usage**: Refer to the individual README within the NIGHTMARE.JS folder for detailed instructions.
+- **Features**: Fake-Lag, Anti-Aim, Modern Visuals, Miscs etc.
 
 ### Saint-Priest.lua
 
 - **Description**: Saint-Priest.lua is a script tailored for Neverlose.cc, designed to elevate your gaming strategy.
-- **Usage**: Detailed usage instructions can be found in the Saint-Priest.lua folder.
+- **Features**: Fake-Lag, Anti-Aim, Modern Visuals, Miscs(leg breaker, anim breaker, speed warning...), smooth animation.
 
 ## Open Source License
 
