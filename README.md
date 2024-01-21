@@ -1,5 +1,6 @@
 # Nightmare Scripts Collection
 
+**[English](README.md) | [中文](README_CN.md)**
 Welcome to the official repository of Nightmare scripts, where we provide powerful and customizable scripts for your gaming experience.
 
 ## Official Website
